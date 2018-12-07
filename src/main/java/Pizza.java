@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.stream.*;
 
 public class Pizza implements Food {
+    //DP Composite
     private String name;
     private ArrayList<Ingredient> ingredient = new ArrayList<>();
 

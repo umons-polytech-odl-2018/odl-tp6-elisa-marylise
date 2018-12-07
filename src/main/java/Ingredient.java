@@ -1,4 +1,5 @@
-public class Ingredient implements Food{
+public class Ingredient implements Food {
+    //DP Composite
     private String name;
     private double price = 0;
 
